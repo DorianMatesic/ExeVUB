@@ -16565,6 +16565,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\Pages\\Projects\\_ProjectsTable.cshtml",
+      "TargetPath": "Pages\\Projects\\_ProjectsTable.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\Pages\\Shared\\_Layout.cshtml",
       "TargetPath": "Pages\\Shared\\_Layout.cshtml",
       "FileKind": "mvc"
