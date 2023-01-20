@@ -1,0 +1,70 @@
+@page
+@model ExeVUB.Pages_Projects.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h1>Edit</h1>
+
+<h4>Project</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Project.Id" />
+            <div class="form-group">
+                <label asp-for="Project.Name" class="control-label"></label>
+                <input asp-for="Project.Name" class="form-control" />
+                <span asp-validation-for="Project.Name" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Description" class="control-label"></label>
+                <input asp-for="Project.Description" class="form-control" />
+                <span asp-validation-for="Project.Description" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Date" class="control-label"></label>
+                <input asp-for="Project.Date" class="form-control" />
+                <span asp-validation-for="Project.Date" class="text-danger"></span>
+            </div>
+            <div class="form-group form-check">
+                <label class="form-check-label">
+                    <input class="form-check-input" asp-for="Project.IsPrivate" /> @Html.DisplayNameFor(model => model.Project.IsPrivate)
+                </label>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Link" class="control-label"></label>
+                <input asp-for="Project.Link" class="form-control" />
+                <span asp-validation-for="Project.Link" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Github" class="control-label"></label>
+                <input asp-for="Project.Github" class="form-control" />
+                <span asp-validation-for="Project.Github" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Technologies" class="control-label"></label>
+                <input asp-for="Project.Technologies" class="form-control" />
+                <span asp-validation-for="Project.Technologies" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Project.Image" class="control-label"></label>
+                <input asp-for="Project.Image" class="form-control" />
+                <span asp-validation-for="Project.Image" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
