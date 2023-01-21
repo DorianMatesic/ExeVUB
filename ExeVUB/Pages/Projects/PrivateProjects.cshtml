@@ -1,0 +1,16 @@
+@page
+@model ExeVUB.Pages_Projects.PrivateProjectsModel
+
+@{
+    ViewData["Title"] = "Private Projects";
+    ViewData["Header"] = "Private Projects";
+}
+
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+
+<div>
+    <partial name="_ProjectsTable" model="Model.Project" />
+</div>

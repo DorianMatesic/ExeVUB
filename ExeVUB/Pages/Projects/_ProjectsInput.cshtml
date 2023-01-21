@@ -1,0 +1,10 @@
+@model string
+
+<div>
+    <form method="get">
+        <label for=@Model> @(Model.First().ToString().ToUpper() + Model.Substring(1))</label>
+        <input type="text" name="@Model"/>
+        <input type="submit" value="Search" />
+    </form>
+</div>
+

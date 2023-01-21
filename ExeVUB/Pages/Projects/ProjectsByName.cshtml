@@ -1,0 +1,17 @@
+@page
+@model ExeVUB.Pages_Projects.ProjectsByNameModel
+
+@{
+    ViewData["Title"] = "Projects by Name";
+    ViewData["Header"] = "Search Projects by Name";
+}
+
+<div>
+    <partial name="_ProjectsInput" model='"name"' />
+</div>
+
+<div>
+    <partial name="_ProjectsTable" model="Model.Project" />
+</div>
+
+
