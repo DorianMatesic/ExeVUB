@@ -26,7 +26,7 @@
                 @Html.DisplayNameFor(model => model[0].Technologies)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model[0].Image)
+                Image
             </th>
             <th></th>
         </tr>
@@ -56,7 +56,7 @@
                 @Html.DisplayFor(modelItem => item.Technologies)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Image)
+                <img src=@item.Image alt="Image"/>
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |

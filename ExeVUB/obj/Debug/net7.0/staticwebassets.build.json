@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "pOTG2Lk/CqqdMV3LtF0edYOGhtgtrwHcoUOZMUCoLV4=",
+  "Hash": "GHmtA/jd42XTWa0YrT5nQL+mLX+vN5+K84LlOrxODEs=",
   "Source": "ExeVUB",
   "BasePath": "_content/ExeVUB",
   "Mode": "Default",
@@ -83,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg",
+      "SourceId": "ExeVUB",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\",
+      "BasePath": "_content/ExeVUB",
+      "RelativePath": "images/bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg"
     },
     {
       "Identity": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\js\\site.js",

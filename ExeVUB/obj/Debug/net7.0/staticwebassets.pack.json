@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg",
+      "PackagePath": "staticwebassets\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg"
+    },
+    {
       "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },

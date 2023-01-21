@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations.Schema;
 namespace ExeVUB.Models;
 
 public class Project
@@ -11,4 +12,6 @@ public class Project
     public string Github { get; set; }
     public string Technologies { get; set; }
     public string Image { get; set; }
+    [NotMapped]
+    public IFormFile Img { get; set; }
 }

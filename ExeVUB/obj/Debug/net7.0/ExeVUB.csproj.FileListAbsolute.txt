@@ -300,3 +300,4 @@ C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\obj\Debug\net7.0\refint\ExeVUB.dl
 C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\obj\Debug\net7.0\ExeVUB.pdb
 C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\obj\Debug\net7.0\ExeVUB.genruntimeconfig.cache
 C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\obj\Debug\net7.0\ref\ExeVUB.dll
+C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\obj\Debug\net7.0\scopedcss\Pages\Projects\_ProjectsTable.cshtml.rz.scp.css

@@ -30,9 +30,24 @@ namespace ExeVUB.Pages_Projects
         // To protect from overposting attacks, see https://aka.ms/RazorPagesCRUD
         public async Task<IActionResult> OnPostAsync()
         {
-          if (!ModelState.IsValid)
+            if (!ModelState.IsValid)
             {
                 return Page();
+            }
+            if(Project.Img != null)
+            {
+                //generate a unique name for the file
+                var fileName = Guid.NewGuid().ToString() + Path.GetExtension(Project.Img.FileName);
+                
+                //save the file to the wwwroot/images folder
+                var filePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+                using (var fileStream = new FileStream(filePath, FileMode.Create))
+                {
+                    await Project.Img.CopyToAsync(fileStream);
+                }
+
+                //Save the file path to the database
+                Project.Image = "/images/" + fileName;
             }
 
             _context.Project.Add(Project);

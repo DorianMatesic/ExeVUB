@@ -64,10 +64,6 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1Byb2plY3RzSW5wdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsTable.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1Byb2plY3RzVGFibGUuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = 
-
 [C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_SortProjects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1NvcnRQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -83,6 +79,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1Byb2plY3RzVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-eova3s06i3
 
 [C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
