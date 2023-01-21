@@ -6,13 +6,8 @@
     ViewData["Header"] = "Search Projects by Technology";
 }
 
-
 <div>
-    <form method="get">
-        <label for="name">Technology:</label>
-        <input type="text" name="technology"/>
-        <input type="submit" value="Search" />
-    </form>
+    <partial name="_ProjectsInput" model='"technology"' />
 </div>
 
 <div>
