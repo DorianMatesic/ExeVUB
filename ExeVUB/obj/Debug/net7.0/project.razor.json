@@ -16610,6 +16610,16 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\Pages\\Projects\\ProjectsByName.cshtml",
+      "TargetPath": "Pages\\Projects\\ProjectsByName.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\Pages\\Projects\\ProjectsByTechnology.cshtml",
+      "TargetPath": "Pages\\Projects\\ProjectsByTechnology.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\Pages\\_ViewImports.cshtml",
       "TargetPath": "Pages\\_ViewImports.cshtml",
       "FileKind": "mvc"
