@@ -20,11 +20,18 @@ namespace ExeVUB.Pages_Projects
 
         public IList<Project> Project { get;set; } = default!;
 
-        public async Task OnGetAsync()
+        public async Task OnGetAsync(string SortBy)
         {
             if (_context.Project != null)
             {
-                Project = await _context.Project.ToListAsync();
+                if(SortBy == "Date") {
+                    Project = await _context.Project.OrderByDescending(p => p.Date).ToListAsync();
+                }
+                else if(SortBy == "Name") {
+                    Project = await _context.Project.OrderBy(p => p.Name).ToListAsync();
+                } else {
+                    Project = await _context.Project.ToListAsync();
+                }
             }
         }
     }
