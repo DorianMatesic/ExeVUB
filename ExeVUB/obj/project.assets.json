@@ -10903,12 +10903,14 @@
       "outputPath": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Dorian\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Dorian\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

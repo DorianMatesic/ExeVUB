@@ -9,81 +9,85 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ExeVUB
 build_property.RootNamespace = ExeVUB
-build_property.ProjectDir = c:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\
+build_property.ProjectDir = C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = c:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB
+build_property.MSBuildProjectDirectory = C:\Users\Dorian\Documents\dotnet\ExeVUB\ExeVUB
 build_property._RazorSourceGeneratorDebug = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Error.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Index.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Privacy.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Create.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Delete.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Details.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Edit.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Index.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/PrivateProjects.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/PrivateProjects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcUHJpdmF0ZVByb2plY3RzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/ProjectsByName.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/ProjectsByName.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcUHJvamVjdHNCeU5hbWUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/ProjectsByTechnology.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/ProjectsByTechnology.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcUHJvamVjdHNCeVRlY2hub2xvZ3kuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsInput.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsInput.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1Byb2plY3RzSW5wdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_SortProjects.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_SortProjects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1NvcnRQcm9qZWN0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_Layout copy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQgY29weS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/_ViewImports.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/_ViewStart.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsTable.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Projects/_ProjectsTable.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJvamVjdHNcX1Byb2plY3RzVGFibGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-eova3s06i3
 
-[c:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_Layout.cshtml]
+[C:/Users/Dorian/Documents/dotnet/ExeVUB/ExeVUB/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-n2965q6z7h

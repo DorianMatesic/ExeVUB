@@ -18,23 +18,15 @@ namespace ExeVUB.Pages_Projects
             _context = context;
         }
 
-        public IList<Project> Project { get;set; } = default!;
+        public IList<Project> Project { get; set; } = default!;
 
-        public async Task OnGetAsync(string technology, string SortBy) {
+        public async Task OnGetAsync(string technology, string SortBy)
+        {
             if (_context.Project != null)
             {
-                if(SortBy == "Date")
-                {
-                    Project = await _context.Project.Where(p => p.Technologies.Contains(technology)).OrderByDescending(p => p.Date).ToListAsync();
-                }
-                else if(SortBy == "Name")
-                {
-                    Project = await _context.Project.Where(p => p.Technologies.Contains(technology)).OrderBy(p => p.Name).ToListAsync();
-                }
-                else
-                {
-                    Project = await _context.Project.Where(p => p.Technologies.Contains(technology)).ToListAsync();
-                }
+
+                Project = await _context.Project.Where(p => p.Technologies.Contains(technology)).ToListAsync();
+
             }
         }
     }
