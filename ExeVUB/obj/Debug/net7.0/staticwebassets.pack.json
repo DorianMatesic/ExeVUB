@@ -1,32 +1,8 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ExeVUB.bundle.scp.css",
-      "PackagePath": "staticwebassets\\ExeVUB.bundle.scp.css"
-    },
-    {
       "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\favicon.ico",
       "PackagePath": "staticwebassets\\assets\\favicon.ico"
-    },
-    {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\img\\about-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\img\\contact-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\contact-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\img\\home-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\home-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\img\\post-bg.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\post-bg.jpg"
-    },
-    {
-      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\assets\\img\\post-sample-image.jpg",
-      "PackagePath": "staticwebassets\\assets\\img\\post-sample-image.jpg"
     },
     {
       "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\css\\styles.css",
@@ -37,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\about-bg.jpg"
+    },
+    {
       "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg",
       "PackagePath": "staticwebassets\\images\\bbfffa52-6cef-4ceb-b7e8-f376755dcdf5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\contact-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\contact-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\home-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\home-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\post-bg.jpg",
+      "PackagePath": "staticwebassets\\images\\post-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\post-sample-image.jpg",
+      "PackagePath": "staticwebassets\\images\\post-sample-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\images\\vubLogo.png",
+      "PackagePath": "staticwebassets\\images\\vubLogo.png"
     },
     {
       "Id": "C:\\Users\\Dorian\\Documents\\dotnet\\ExeVUB\\ExeVUB\\wwwroot\\js\\scripts.js",
