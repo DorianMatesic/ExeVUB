@@ -2,7 +2,7 @@
 @model ExeVUB.Pages_Projects.ProjectsByTechnologyModel
 
 @{
-    ViewData["Title"] = "Projects by Technology";
+    ViewData["Title"] = "TECHNOLOGIES";
     ViewData["Header"] = "Search Projects by Technology";
 }
 
@@ -10,9 +10,7 @@
     <partial name="_ProjectsInput" model='"technology"' />
 </div>
 
-<div>
-    <partial name="_SortProjects"/>
-</div>
+
 
 <div>
     <partial name="_ProjectsTable" model="Model.Project" />
